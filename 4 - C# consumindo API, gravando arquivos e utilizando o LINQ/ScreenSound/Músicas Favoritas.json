@@ -1,0 +1,40 @@
+{
+    "nome": "Favoritas",
+    "musicas": [
+        {
+            "song": "#SELFIE - Original Mix",
+            "artist": "The Chainsmokers",
+            "duration_ms": 183750,
+            "genre": "pop, Dance/Electronic",
+            "year": "2014"
+        },
+        {
+            "song": "\u0027Till I Collapse",
+            "artist": "Eminem",
+            "duration_ms": 297786,
+            "genre": "hip hop",
+            "year": "2002"
+        },
+        {
+            "song": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+            "artist": "Sean Paul",
+            "duration_ms": 243880,
+            "genre": "hip hop, pop",
+            "year": "2006"
+        },
+        {
+            "song": "4 My People (feat. Eve)",
+            "artist": "Missy Elliott",
+            "duration_ms": 289373,
+            "genre": "hip hop, pop, R\u0026B",
+            "year": "2001"
+        },
+        {
+            "song": "About You Now",
+            "artist": "Sugababes",
+            "duration_ms": 212400,
+            "genre": "pop, R\u0026B",
+            "year": "2007"
+        }
+    ]
+}

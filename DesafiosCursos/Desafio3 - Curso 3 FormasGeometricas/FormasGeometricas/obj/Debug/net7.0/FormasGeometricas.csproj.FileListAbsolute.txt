@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\bin\Debug\net7.0\FormasGeometricas.exe
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\bin\Debug\net7.0\FormasGeometricas.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\bin\Debug\net7.0\FormasGeometricas.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\bin\Debug\net7.0\FormasGeometricas.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\bin\Debug\net7.0\FormasGeometricas.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\refint\FormasGeometricas.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\FormasGeometricas.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio3 - Curso 3 FormasGeometricas\FormasGeometricas\obj\Debug\net7.0\ref\FormasGeometricas.dll

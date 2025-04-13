@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\bin\Debug\net7.0\Desafio1 - Curso 3.exe
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\bin\Debug\net7.0\Desafio1 - Curso 3.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\bin\Debug\net7.0\Desafio1 - Curso 3.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\bin\Debug\net7.0\Desafio1 - Curso 3.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\bin\Debug\net7.0\Desafio1 - Curso 3.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\refint\Desafio1 - Curso 3.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\Desafio1 - Curso 3.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio1 - Curso 3\obj\Debug\net7.0\ref\Desafio1 - Curso 3.dll

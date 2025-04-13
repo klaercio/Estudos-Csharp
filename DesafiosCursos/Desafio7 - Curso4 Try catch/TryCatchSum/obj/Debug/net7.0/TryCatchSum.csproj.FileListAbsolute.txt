@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\bin\Debug\net7.0\TryCatchSum.exe
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\bin\Debug\net7.0\TryCatchSum.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\bin\Debug\net7.0\TryCatchSum.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\bin\Debug\net7.0\TryCatchSum.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\bin\Debug\net7.0\TryCatchSum.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\refint\TryCatchSum.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\TryCatchSum.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio7 - Curso4 Try catch\TryCatchSum\obj\Debug\net7.0\ref\TryCatchSum.dll

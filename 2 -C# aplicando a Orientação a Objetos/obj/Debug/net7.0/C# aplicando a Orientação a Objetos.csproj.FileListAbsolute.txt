@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\bin\Debug\net7.0\C# aplicando a Orientação a Objetos.exe
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\bin\Debug\net7.0\C# aplicando a Orientação a Objetos.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\bin\Debug\net7.0\C# aplicando a Orientação a Objetos.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\bin\Debug\net7.0\C# aplicando a Orientação a Objetos.dll
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\bin\Debug\net7.0\C# aplicando a Orientação a Objetos.pdb
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.dll
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\refint\C# aplicando a Orientação a Objetos.dll
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.pdb
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\C# aplicando a Orientação a Objetos.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\C# aplicando a Orientação a Objetos\obj\Debug\net7.0\ref\C# aplicando a Orientação a Objetos.dll

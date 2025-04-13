@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\bin\Debug\net7.0\petshop.exe
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\bin\Debug\net7.0\petshop.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\bin\Debug\net7.0\petshop.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\bin\Debug\net7.0\petshop.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\bin\Debug\net7.0\petshop.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\refint\petshop.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\petshop.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio2 - Curso 3 Petshop\petshop\obj\Debug\net7.0\ref\petshop.dll

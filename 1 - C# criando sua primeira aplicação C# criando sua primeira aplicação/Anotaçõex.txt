@@ -1,0 +1,2 @@
+1 - Para criar um novo projeto do tipo console: dotnet new console.
+2 - Pra rodar a aplicação do console: dotnet run .\Program.cs

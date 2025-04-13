@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\bin\Debug\net7.0\Empesa.exe
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\bin\Debug\net7.0\Empesa.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\bin\Debug\net7.0\Empesa.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\bin\Debug\net7.0\Empesa.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\bin\Debug\net7.0\Empesa.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\refint\Empesa.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\Empesa.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio4 - Curso 3 Empresa\Empesa\obj\Debug\net7.0\ref\Empesa.dll

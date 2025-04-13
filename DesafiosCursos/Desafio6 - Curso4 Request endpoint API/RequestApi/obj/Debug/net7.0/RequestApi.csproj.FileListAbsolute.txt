@@ -1,0 +1,14 @@
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\bin\Debug\net7.0\RequestApi.exe
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\bin\Debug\net7.0\RequestApi.deps.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\bin\Debug\net7.0\RequestApi.runtimeconfig.json
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\bin\Debug\net7.0\RequestApi.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\bin\Debug\net7.0\RequestApi.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.AssemblyInfoInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.AssemblyInfo.cs
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.csproj.CoreCompileInputs.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\refint\RequestApi.dll
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.pdb
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\RequestApi.genruntimeconfig.cache
+C:\Users\ko9367\Documents\Estudos\c#\DesafiosCursos\Desafio6 - Curso4 Request endpoint API\RequestApi\obj\Debug\net7.0\ref\RequestApi.dll
