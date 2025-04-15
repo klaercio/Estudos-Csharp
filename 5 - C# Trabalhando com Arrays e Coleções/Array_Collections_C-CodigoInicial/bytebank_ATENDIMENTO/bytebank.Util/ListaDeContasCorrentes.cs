@@ -14,7 +14,7 @@ internal class ListaDeContasCorrente
 
     public void AdicionarConta(ContaCorrente conta)
     {
-        Console.WriteLine($"Adicionando conta na posição {_proximaPosicao}");
+        Console.WriteLine($"Adicionando conta na posiï¿½ï¿½o {_proximaPosicao}");
         VerificarCapacidade(_proximaPosicao + 1);
         _itens[_proximaPosicao] = conta;
         _proximaPosicao++;
@@ -77,8 +77,28 @@ internal class ListaDeContasCorrente
             if (_itens[i] != null)
             {
                 var conta = _itens[i];
-                Console.WriteLine($" Indice[{i}] = Conta:{conta.Conta} - N° da Agência: {conta.Numero_agencia}");
+                Console.WriteLine($" Indice[{i}] = Conta:{conta.Conta} - Nï¿½ da Agï¿½ncia: {conta.Numero_agencia}");
             }
+        }
+    }
+
+    public ContaCorrente RecuperarItemPeloIndice(int indice) {
+        if(indice < 0 || indice > _proximaPosicao) 
+        {
+            throw new ArgumentOutOfRangeException(nameof(indice));
+        }
+
+        return _itens[indice];
+    }
+
+    public int Tamanho {
+        get => _itens.Length;
+    }
+
+    public ContaCorrente this[int indice] 
+    {
+        get {
+            return _itens[indice];
         }
     }
 }
