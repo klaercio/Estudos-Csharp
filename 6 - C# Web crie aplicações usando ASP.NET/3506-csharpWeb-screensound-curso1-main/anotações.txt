@@ -1,0 +1,3 @@
+Para conseguirmor conectar ao banco sqlserver iremos utilizar o pacote sqlclient.
+DAL - Data Acess Layer;
+EntityFramework - ORM significa Object-Relational Mapping e é uma técnica que permite a interação de um sistema orientado a objetos com um banco de dados relacional de maneira mais intuitiva. O objetivo principal do ORM é mapear os objetos da aplicação diretamente para as tabelas do banco de dados utilizado, abstraindo esse acesso e se tornando mais próximo do que utilizamos em orientação a objetos
