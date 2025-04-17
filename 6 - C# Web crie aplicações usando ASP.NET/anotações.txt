@@ -1,0 +1,3 @@
+Add-Migration *nomeMigration* - Para adicionar a migration de como está o nosso banco atual
+Update-Database *nomeMigration* - Comando para ele executar a migration que criei
+Update-Database - Ele vai rodar a última migration que ainda não foi executada

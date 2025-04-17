@@ -3,7 +3,7 @@ using ScreenSound.Menus;
 using ScreenSound.Modelos;
 
 var context  =  new ScreenSoundContext();
-var artistaDal = new ArtistaDal(context);
+var genericDal =  new DAL<Artista>(context);
 
 Dictionary<int, Menu> opcoes = new();
 opcoes.Add(1, new MenuRegistrarArtista());
@@ -13,34 +13,7 @@ opcoes.Add(4, new MenuMostrarMusicas());
 opcoes.Add(-1, new MenuSair());
 
 
-try
-{
-    var contextBanco = new ScreenSoundContext();
-    var musicaDal = new MusicaDal(contextBanco);
 
-    Musica musica = new Musica("Calipso Music 4")
-    {
-        Id = 4
-    };
-
-    //musicaDal.AdicionarMusica(musica);
-    //musicaDal.AtualizarMusica(musica);
-    //musicaDal.ExcluirMusica(musica);
-    
-
-    foreach(var i in musicaDal.ListarMusicas())
-    {
-        Console.WriteLine($"{i}");
-    }
-
-    Console.WriteLine($"{musicaDal.RecuperarPeloNome("Calipso Music")}");
-
-}catch(Exception ex)
-{
-    Console.WriteLine($"{ex.Message}");
-}
-
-return;
 void ExibirLogo()
 {
     Console.WriteLine(@"
@@ -71,7 +44,7 @@ void ExibirOpcoesDoMenu()
     if (opcoes.ContainsKey(opcaoEscolhidaNumerica))
     {
         Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
-        menuASerExibido.Executar(artistaDal);
+        menuASerExibido.Executar(genericDal);
         if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
     } 
     else
